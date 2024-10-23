@@ -1,0 +1,10 @@
+{
+    "vscode.tsc.compiler.alertTSConfigChanges": "never",
+    "angular-schematics.schematicsDefaultOptions": {
+        "angular-*": {
+            "externalTemplate": true,
+            "skipStyle": true
+        }
+    },
+    "git.ignoreLimitWarning": true
+}
